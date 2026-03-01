@@ -1,0 +1,11 @@
+Task 3 - Sales Insights
+
+Sales Insights:
+
+1. Technology category has the highest sales and profit.
+2. West region generated the highest revenue among all regions.
+3. California and New York are the top-performing states.
+4. Furniture category has high sales but lower profit margin.
+5. Tables sub-category recorded significant losses.
+6. Office Supplies provides steady and consistent profit.
+7. Overall business is profitable with scope for improving margins in low-profit areas.
