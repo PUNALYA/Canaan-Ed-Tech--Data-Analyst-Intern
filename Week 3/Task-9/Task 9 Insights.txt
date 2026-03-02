@@ -1,0 +1,19 @@
+Task 9 Insights
+
+1. Females had higher survival rate than males.
+
+2. First class passengers survived more.
+
+3. Children had better survival rate.
+
+4. Most passengers were between age 20–40.
+
+5. Fare is positively correlated with survival.
+
+6. The majority of passengers boarded from Southampton.
+
+7. The cabin column has many missing values.
+
+8. Higher ticket fare → higher survival chance.
+
+9. The third class had lowest survival rate.
